@@ -1,5 +1,7 @@
 ### Python入门 (Python Basic Class)
 
+#### 廖雪峰
+
 https://www.imooc.com/learn/177
 
 #### 简介：
