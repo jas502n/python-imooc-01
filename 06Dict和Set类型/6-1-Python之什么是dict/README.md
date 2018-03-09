@@ -1,5 +1,6 @@
 
-#### Python之什么是dict
+### Python之什么是dict
+
 
 我们已经知道，list 和 tuple 可以用来表示顺序集合，例如，班里同学的名字：
 
