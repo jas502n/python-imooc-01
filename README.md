@@ -1,5 +1,4 @@
-### Python Basic Class
-### Python入门
+### Python入门 (Python Basic Class)
 
 https://www.imooc.com/learn/177
 
