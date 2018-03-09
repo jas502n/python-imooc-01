@@ -1,5 +1,4 @@
 
-https://www.imooc.com/code/3507
 
 ## Python之 遍历set
 
