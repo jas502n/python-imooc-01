@@ -1,7 +1,7 @@
 
 https://www.imooc.com/code/3507
 
-# Python之 遍历set
+## Python之 遍历set
 
 由于 set 也是一个集合，所以，遍历 set 和遍历 list 类似，都可以通过 for 循环实现。
 直接使用 for 循环可以遍历 set 的元素：
@@ -20,7 +20,7 @@ Bart
 ### 注意: 观察 for 循环在遍历set时，元素的顺序和list的顺序很可能是不同的，而且不同的机器上运行的结果也可能不同。
 
 
-# 任务
+## 任务
 
 请用 for 循环遍历如下的set，打印出 name: score 来。
 
