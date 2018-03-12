@@ -38,6 +38,10 @@ print '</table>'
 <tr><td>Bart</td><td>59</td></tr>
 </table>
 
+Name    Score
+Lisa     85
+Adam     95
+Bart     59
 ```
 
 ### 任务
@@ -49,6 +53,11 @@ print '</table>'
 
 红色可以用 <td style="color:red"> 实现。
 
+
+Name	Score
+Lisa     85
+Adam     95
+Bart     59(red)
 ```
 
 #### 链接
