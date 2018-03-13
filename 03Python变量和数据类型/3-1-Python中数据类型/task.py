@@ -6,6 +6,7 @@
 
 print 45678 + 0x12fd2
 
+#### >>>>123456
 
 
 ### task02
@@ -13,9 +14,14 @@ print 45678 + 0x12fd2
 
 print "Learn Python in imooc"
 
+### >>>>>Learn Python in imooc
+
 ### task03
 ### 3. 请计算以下表达式的布尔值（注意==表示判断是否相等）：
 
 print 100 < 99
 
 print 0xff == 255
+
+### >>>>>False
+### >>>>>True
