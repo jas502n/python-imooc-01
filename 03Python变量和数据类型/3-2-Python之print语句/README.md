@@ -26,7 +26,7 @@ The quick brown fox jumps over the lazy dog
 
 print会依次打印每个字符串，遇到逗号“,”会输出一个空格，因此，输出的字符串是这样拼起来的：
 
-![](/douhao.jpg)
+![](./douhao.jpg)
 
 print也可以打印整数，或者计算结果：
 
