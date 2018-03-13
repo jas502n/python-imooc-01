@@ -127,7 +127,7 @@ print b
 
 ```
 ![](./an.jpg)
-&nbsp; 
+#### 
 ![](./sn.jpg)
 
 #### 注意: 
@@ -136,11 +136,4 @@ print b
 
 ####  链接
 https://www.imooc.com/code/3267
-
-
-
-
-
-
-
 
