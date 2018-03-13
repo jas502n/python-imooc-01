@@ -3,7 +3,9 @@
 
 我们已经了解了Python支持布尔类型的数据，布尔类型只有True和False两种值，但是布尔类型有以下几种运算：
 
-#### 与运算：只有两个布尔值都为 True 时，计算结果才为 True。
+#### 与运算：
+
+只有两个布尔值都为 True 时，计算结果才为 True。
 
 ```
 
@@ -14,7 +16,9 @@ False and False   # ==> False
 
 ```
 
-#### 或运算：只要有一个布尔值为 True，计算结果就是 True。
+#### 或运算：
+
+只要有一个布尔值为 True，计算结果就是 True。
 
 
 ```
@@ -25,7 +29,9 @@ False or False   # ==> False
 
 ```
 
-#### 非运算：把True变为False，或者把False变为True：
+#### 非运算：
+
+把True变为False，或者把False变为True：
 
 
 ```
