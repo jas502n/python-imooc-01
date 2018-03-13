@@ -6,6 +6,8 @@
 
 print 45678 + 0x12fd2
 
+
+
 ### task02
 ### 2.请用字符串表示出Learn Python in imooc
 

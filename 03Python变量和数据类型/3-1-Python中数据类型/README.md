@@ -74,13 +74,38 @@ None不能理解为0，因为0是有意义的，而None是一个特殊的空值�
 ```
 1. 计算十进制整数 45678 和十六进制整数 0x12fd2 之和。
 
+```
+>>> 45678 + 0x12fd2
+123456
+
+```
+
 2. 请用字符串表示出Learn Python in imooc。
 
+```
+>>> print "Learn Python in imooc"
+Learn Python in imooc
+>>>
+
+```
 3. 请计算以下表达式的布尔值（注意==表示判断是否相等）：
 
     100 < 99
 
     0xff == 255
+
+```
+>>> print 100 < 99
+False
+
+>>> print 0xff == 255
+True
+>>>
+
+```
+```
+
+``
 
 ```
 
