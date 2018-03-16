@@ -47,6 +47,9 @@ repr() 函数将对象转化为供解释器读取的形式。
 >>> repr('少宇宝宝宝')
 "'\\xc9\\xd9\\xd3\\xee\\xb1\\xa6\\xb1\\xa6\\xb1\\xa6'"
 
+>>> print '\xc9\xd9\xd3\xee\xb1\xa6\xb1\xa6\xb1\xa6'
+少宇宝宝宝
+
 将unicode转换成中文：
 
 >>> print u'\\u5c11\\u5b87\\u5b9d\\u5b9d\\u5b9d'  ### 由于在python中\\ 代表 \ 本身，所以不会转义
