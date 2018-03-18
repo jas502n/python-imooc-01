@@ -34,11 +34,11 @@
 
 别急，我们先看看定义的时候tuple包含的3个元素：
 
-图片
+![](./tuple-3.jpg)
 
 当我们把list的元素'A'和'B'修改为'X'和'Y'后，tuple变为：
 
-图片
+![](./tuple-change.jpg)
 
 表面上看，tuple的元素确实变了，但其实变的不是 tuple 的元素，而是list的元素。
 ```
